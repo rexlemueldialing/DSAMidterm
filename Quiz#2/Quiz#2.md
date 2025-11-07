@@ -35,7 +35,7 @@
 
 **Step 4.** To verify if Git is installed, select a folder > hit right click > show more options. You should now see the option “Open Git Bash Here”.
 
-
+![step 4](<images/Screenshot 2025-10-31 112748.png>)
 
 ### B1. Set-Up _GitHub in VSCode_
 
@@ -48,6 +48,8 @@
 **Step 4.** To link VSCode to GitHub > go to Accounts > click “Backup and Sync Settings” > Sign in > select Sign in with GitHub > log in GitHub (make sure to use one email for easy linking).
 
 **Step 5.** To verify if VSCode is linked to your GitHub, go to Accounts. Your GitHub account should be displayed at the very top.
+
+![step 5](<images/Screenshot 2025-10-31 102334.png>)
 
 **Step 6.** Lastly, To create a basic HTML code, hit right click > New file > enter file name (e.g. “helloWorld.html”) > write anything. To check if it worked, go to your file folder. The HTML file you just created should be saved there and runs once clicked.
 
