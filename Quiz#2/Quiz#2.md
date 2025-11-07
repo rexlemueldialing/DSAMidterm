@@ -35,7 +35,19 @@
 ##### **Step 1.** First, create a repository, go to Home > Create New Repository. In the New Repository Page, enter Repository Name (e.g. “DSAMidterm”) > set to Public > Create repository.
 ##### **Step 2.** Once a repository is created, go to codemy.com/git/ for setting up your source control (This is the standard way. Allows users to view who and what is edited or changes made in a file).
 ##### **Step 3.** Set up Source Control:
-##### <div style="margin-left: 20px;"> **Step 3.1** Go to VSCode and create a new file. Name it as “README.md
+##### <div style="margin-left: 20px;"> **Step 3.1** Go to VSCode and create a new file. Name it as “README.md 
+
+'''md
+**Step 3.1** Go to VSCode and create a new file. Name it as “README.md
+'''
+
+```md
+    This will keep its 4-space indentation.
+``` 
+    **Step 3.1** Go to VSCode and create a new file. Name it as “README.md
+
+
+&nbsp;&nbsp;**Step 3.1** Go to VSCode and create a new file. Name it as “README.md
 
 ##### <div style="margin-left: 20px;"> **Step 3.2** Go to Terminal > dropdown button > select Git Bash (Git bash should be colorful)
 
