@@ -4,7 +4,7 @@
 
 ### A. Installation of VSCode
 
-**Step 1.** Download from microsoft website (options for windows and mac).
+**Step 1.** Download from Microsoft's website (options for windows and mac).
 
 **Step 2.** Install the .exe file and simply click "next" for the following tabs.
 
@@ -63,11 +63,11 @@
 
 **Step 3.** Set up Source Control:
 
-&nbsp;&nbsp;**Step 3.1** Go to VSCode and create a new file. Name it as “README.md
+&nbsp;&nbsp;**Step 3.1** Go to VSCode and create a new file. Name it as “README.md".
 
-&nbsp;&nbsp;**Step 3.2** Go to Terminal > dropdown button > select Git Bash (Git bash should be colorful)
+&nbsp;&nbsp;**Step 3.2** Go to Terminal > dropdown button > select Git Bash (Git bash should be colorful).
 
-&nbsp;&nbsp;**Step 3.3** From codemy.com/git/, copy each line one by one, then paste it in the VSCode terminal. (Keep in mind that the dollar sign ($) should not be doubled)
+&nbsp;&nbsp;**Step 3.3** From codemy.com/git/, copy each line one by one, then paste it in the VSCode terminal. (Keep in mind that the dollar sign ($) should not be doubled).
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Step 3.3.1** Start with “git init” — to initialize the process.
 
@@ -75,7 +75,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![git command for source control](images/Screenshot%202025-10-31%20105456.png)
 
-&nbsp;&nbsp;**Step 3.4** Go back to your repository, copy each line one by one (top to bottom), then paste it in the VSCode terminal. (make sure that every word, letter or space is copied properly to avoid error)
+&nbsp;&nbsp;**Step 3.4** Go back to your repository, copy each line one by one (top to bottom), then paste it in the VSCode terminal. (make sure that every word, letter or space is copied properly to avoid error).
 
 &nbsp;&nbsp; ![new repository comans](<images/Screenshot 2025-10-31 110439.png>)
 
