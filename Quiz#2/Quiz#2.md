@@ -73,6 +73,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![git command for source control](images/Screenshot%202025-10-31%20105456.png)
 
+&nbsp;&nbsp;**Step 3.4** Go back to your repository, copy each line one by one (top to bottom), then paste it in the VSCode terminal. (make sure that every word, letter or space is copied properly to avoid error)
+
+&nbsp;&nbsp; ![new repository comans](<images/Screenshot 2025-10-31 110439.png>)
 
 **Step 4.** To link VSCode to GitHub > go to Accounts > click “Backup and Sync Settings” > Sign in > select Sign in with GitHub > log in GitHub (make sure to use one email for easy linking).
 
