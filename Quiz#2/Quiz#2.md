@@ -35,7 +35,7 @@
 
 **Step 4.** To verify if Git is installed, select a folder > hit right click > show more options. You should now see the option “Open Git Bash Here”.
 
----
+
 
 ### B1. Set-Up _GitHub in VSCode_
 
@@ -51,7 +51,7 @@
 
 **Step 6.** Lastly, To create a basic HTML code, hit right click > New file > enter file name (e.g. “helloWorld.html”) > write anything. To check if it worked, go to your file folder. The HTML file you just created should be saved there and runs once clicked.
 
----
+
 
 ### B2. Set-Up _Repository_
 
@@ -80,7 +80,7 @@
 
 **Step 6.** Lastly, To create a basic HTML code, hit right click > New file > enter file name (e.g. “helloWorld.html”) > write anything. To check if it worked, go to your file folder. The HTML file you just created should be saved there and runs once clicked.
 
----
+
 
 ### C1. Basic Operation: _Push new or edited file to GitHub_
 
@@ -90,7 +90,7 @@
 
 **Step 3.** To check, reload your git hub.
 
----
+
 
 ### C2. Basic Operation: _Transfering Code File to Another Desktop_
 
