@@ -37,7 +37,17 @@
 
 ![step 4](<images/Screenshot 2025-10-31 112748.png>)
 
-### B1. Set-Up _GitHub in VSCode_
+### B1. Set-Up _GitHub Account_
+
+**Step 1.** Create a GitHub account by signing up to GitHub using your active gmail account.
+
+**Step 2.** Complete the Human Authentication Test.
+
+&nbsp;&nbsp;**Step 2.1** If it’s not working, try creating an account on a mobile device.
+
+**Step 3.** To log in, use your active gmail account. Has 2 factor authenticator, you might need to download microsoft authenticator to set up git hub.
+
+### B2. Set-Up _GitHub in VSCode_
 
 **Step 1.** First select View > Terminal > at the top right of terminal, click the dropdown > set to command prompt (still should be in the directory of desired folder).
 
@@ -55,7 +65,7 @@
 
 
 
-### B2. Set-Up _Repository_
+### B3. Set-Up _Repository_
 
 **Step 1.** First, create a repository, go to Home > Create New Repository. In the New Repository Page, enter Repository Name (e.g. “DSAMidterm”) > set to Public > Create repository.
 
