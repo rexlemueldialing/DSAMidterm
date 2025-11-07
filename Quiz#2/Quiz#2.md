@@ -26,24 +26,42 @@
 
 ### A. Installation of Git
 
-##### **Step 1.** To Download Git, go to Git’s official website. For Windows, under “Standalone Installer”, choose x64 or ARM64 depending on your desktop’s architecture.
-##### **Step 2.** After downloading, install Git.
-##### **Step 3.** During the installation set-up of Git, simply click “next” for every step.
-##### **Step 4.** To verify if Git is installed, select a folder > hit right click > show more options. You should now see the option “Open Git Bash Here”.
+**Step 1.** To Download Git, go to Git’s official website. For Windows, under “Standalone Installer”, choose x64 or ARM64 depending on your desktop’s architecture.
+
+**Step 2.** After downloading, install Git.
+
+**Step 3.** During the installation set-up of Git, simply click “next” for every step.
+
+**Step 4.** To verify if Git is installed, select a folder > hit right click > show more options. You should now see the option “Open Git Bash Here”.
+
 ---
+
 ### B1. Set-Up _GitHub in VSCode_
-##### **Step 1.** First select View > Terminal > at the top right of terminal, click the dropdown > set to command prompt (still should be in the directory of desired folder).
-##### **Step 2.** Next go to File > select "Auto Save”.
-##### **Step 3.** Once finished, we can now download the necessary extensions. To download extensions, go to Extensions > search for  “Conventional Commits and Source Control” > Install both.
-##### **Step 4.** To link VSCode to GitHub > go to Accounts > click “Backup and Sync Settings” > Sign in > select Sign in with GitHub > log in GitHub (make sure to use one email for easy linking).
-##### **Step 5.** To verify if VSCode is linked to your GitHub, go to Accounts. Your GitHub account should be displayed at the very top.
-##### **Step 6.** Lastly, To create a basic HTML code, hit right click > New file > enter file name (e.g. “helloWorld.html”) > write anything. To check if it worked, go to your file folder. The HTML file you just created should be saved there and runs once clicked.
+
+**Step 1.** First select View > Terminal > at the top right of terminal, click the dropdown > set to command prompt (still should be in the directory of desired folder).
+
+**Step 2.** Next go to File > select "Auto Save”.
+
+**Step 3.** Once finished, we can now download the necessary extensions. To download extensions, go to Extensions > search for  “Conventional Commits and Source Control” > Install both.
+
+**Step 4.** To link VSCode to GitHub > go to Accounts > click “Backup and Sync Settings” > Sign in > select Sign in with GitHub > log in GitHub (make sure to use one email for easy linking).
+
+**Step 5.** To verify if VSCode is linked to your GitHub, go to Accounts. Your GitHub account should be displayed at the very top.
+
+**Step 6.** Lastly, To create a basic HTML code, hit right click > New file > enter file name (e.g. “helloWorld.html”) > write anything. To check if it worked, go to your file folder. The HTML file you just created should be saved there and runs once clicked.
+
 ---
+
 ### B2. Set-Up _Repository_
-##### **Step 1.** First, create a repository, go to Home > Create New Repository. In the New Repository Page, enter Repository Name (e.g. “DSAMidterm”) > set to Public > Create repository.
-##### **Step 2.** Once a repository is created, go to codemy.com/git/ for setting up your source control (This is the standard way. Allows users to view who and what is edited or changes made in a file).
-##### **Step 3.** Set up Source Control:
-##### <div style="margin-left: 20px;"> **Step 3.1** Go to VSCode and create a new file. Name it as “README.md 
+
+**Step 1.** First, create a repository, go to Home > Create New Repository. In the New Repository Page, enter Repository Name (e.g. “DSAMidterm”) > set to Public > Create repository.
+
+**Step 2.** Once a repository is created, go to codemy.com/git/ for setting up your source control (This is the standard way. Allows users to view who and what is edited or changes made in a file).
+
+**Step 3.** Set up Source Control:
+
+<div style="margin-left: 20px;"> **Step 3.1** Go to VSCode and create a new file. Name it as “README.md 
+
 
 '''md
 **Step 3.1** Go to VSCode and create a new file. Name it as “README.md
