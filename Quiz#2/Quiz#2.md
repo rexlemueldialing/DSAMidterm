@@ -94,20 +94,30 @@
 </p>
 
 
-##### **Step 4.** To link VSCode to GitHub > go to Accounts > click “Backup and Sync Settings” > Sign in > select Sign in with GitHub > log in GitHub (make sure to use one email for easy linking).
-##### **Step 5.** To verify if VSCode is linked to your GitHub, go to Accounts. Your GitHub account should be displayed at the very top.
-##### **Step 6.** Lastly, To create a basic HTML code, hit right click > New file > enter file name (e.g. “helloWorld.html”) > write anything. To check if it worked, go to your file folder. The HTML file you just created should be saved there and runs once clicked.
+**Step 4.** To link VSCode to GitHub > go to Accounts > click “Backup and Sync Settings” > Sign in > select Sign in with GitHub > log in GitHub (make sure to use one email for easy linking).
+
+**Step 5.** To verify if VSCode is linked to your GitHub, go to Accounts. Your GitHub account should be displayed at the very top.
+
+**Step 6.** Lastly, To create a basic HTML code, hit right click > New file > enter file name (e.g. “helloWorld.html”) > write anything. To check if it worked, go to your file folder. The HTML file you just created should be saved there and runs once clicked.
+
 ---
 
 ### C1. Basic Operation: _Push new or edited file to GitHub_
-##### **Step 1.** Go to Source Control > locate Changes > stage changes.
-##### **Step 2.** To upload changes to your GitHub Repository, click “Conventional Commits” (circle symbol) > select Features > select “No Scope” > choose Emoji (represent messages) > then add description (for record and to easily track changes made) > click “Sync Changes”.
-##### **Step 3.** To check, reload your git hub.
+
+**Step 1.** Go to Source Control > locate Changes > stage changes.
+
+**Step 2.** To upload changes to your GitHub Repository, click “Conventional Commits” (circle symbol) > select Features > select “No Scope” > choose Emoji (represent messages) > then add description (for record and to easily track changes made) > click “Sync Changes”.
+
+**Step 3.** To check, reload your git hub.
 
 ---
 
 ### C2. Basic Operation: _Transfering Code File to Another Desktop_
-##### **Step 1.** Dropdown code > copy url.
-##### **Step 2.** TIn a different desktop, create a New folder (e.g. “PC No.3”) > Go to the folder created.
-##### **Step 3.** Inside the folder, select “Open Git Bash Here” > git clone > right click > paste.
-##### **Step 4.** Now your files are copied to another device. Also it is formatted the same way it is before.
+
+**Step 1.** Dropdown code > copy url.
+
+**Step 2.** TIn a different desktop, create a New folder (e.g. “PC No.3”) > Go to the folder created.
+
+**Step 3.** Inside the folder, select “Open Git Bash Here” > git clone > right click > paste.
+
+**Step 4.** Now your files are copied to another device. Also it is formatted the same way it is before.
