@@ -10,7 +10,7 @@
 
 **Step 3.** To verify if it is installed, just search in windows search bar.
 
-<hr style="border: none; border-bottom: 0.5px solid #d0d7de; margin: 16px 0;">
+<hr style="border: none; border-bottom: 1px solid #d0d7de; margin: 0.3em 0;">
 
 ### B. Basic Operation: _Opening VSCode through CMD_
 
