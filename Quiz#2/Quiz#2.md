@@ -60,6 +60,8 @@
 
 **Step 3.** Set up Source Control:
 
+&nbsp;&nbsp;**Step 3.1** Go to VSCode and create a new file. Name it as “README.md
+
 <div style="margin-left: 20px;"> **Step 3.1** Go to VSCode and create a new file. Name it as “README.md 
 
 
