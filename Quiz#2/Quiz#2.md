@@ -3,9 +3,9 @@
 ## Visual Studio Code
 
 ### A. Installation of VSCode
-##### **Step 1.** Download from microsoft website (options for windows and mac).
-##### **Step 2.** Install the .exe file and simply click "next" for the following tabs.
-##### **Step 3.** To verify if it is installed, just search in windows search bar.
+ **Step 1.** Download from microsoft website (options for windows and mac).
+ **Step 2.** Install the .exe file and simply click "next" for the following tabs.
+ **Step 3.** To verify if it is installed, just search in windows search bar.
 ---
 ### B. Basic Operation: _Opening VSCode through CMD_
 ##### **Step 1.** Create a folder.
@@ -47,7 +47,7 @@
     **Step 3.1** Go to VSCode and create a new file. Name it as “README.md
 
 
-&nbsp;&nbsp;**Step 3.1** Go to VSCode and create a new file. Name it as “README.md
+&nbsp;&nbsp; ##### **Step 3.1** Go to VSCode and create a new file. Name it as “README.md
 
 ##### <div style="margin-left: 20px;"> **Step 3.2** Go to Terminal > dropdown button > select Git Bash (Git bash should be colorful)
 
