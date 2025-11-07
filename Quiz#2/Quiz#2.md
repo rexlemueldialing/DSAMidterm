@@ -3,7 +3,8 @@
 ## Visual Studio Code
 ---
 ### A. Installation of VSCode
-##### **Step 1.** Download from microsoft website (options for windows and mac).
+
+**Step 1.** Download from microsoft website (options for windows and mac).
 
 **Step 2.** Install the .exe file and simply click "next" for the following tabs.
 
@@ -11,10 +12,14 @@
 
 ---
 ### B. Basic Operation: _Opening VSCode through CMD_
-##### **Step 1.** Create a folder.
-##### **Step 2.** Create a dummy file (e.g. “dummyFile.txt”).
-##### **Step 3.** In the folder directory, type “cmd” and press enter.
-##### **Step 4.** Once redirected to the Command Prompt, make sure that the directory is correct. Then type “code .” to open VSCode.
+
+**Step 1.** Create a folder.
+
+**Step 2.** Create a dummy file (e.g. “dummyFile.txt”).
+
+**Step 3.** In the folder directory, type “cmd” and press enter.
+
+**Step 4.** Once redirected to the Command Prompt, make sure that the directory is correct. Then type “code .” to open VSCode.
 
 ---
 ## Git Hub
