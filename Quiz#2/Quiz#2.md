@@ -1,7 +1,7 @@
 # ***Visual Studio Code and Github: Installation, Set-Up, and Basic Operations***
----
+
 ## Visual Studio Code
----
+
 ### A. Installation of VSCode
 
 **Step 1.** Download from microsoft website (options for windows and mac).
@@ -10,7 +10,8 @@
 
 **Step 3.** To verify if it is installed, just search in windows search bar.
 
----
+<hr style="border: none; border-bottom: 1px solid #d0d7de; margin: 16px 0;">
+
 ### B. Basic Operation: _Opening VSCode through CMD_
 
 **Step 1.** Create a folder.
