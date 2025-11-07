@@ -64,44 +64,13 @@
 
 &nbsp;&nbsp;**Step 3.2** Go to Terminal > dropdown button > select Git Bash (Git bash should be colorful)
 
-&nbsp;&nbsp;**Step 3.3**From codemy.com/git/, copy each line one by one, then paste it in the VSCode terminal. (Keep in mind that the dollar sign ($) should not be doubled)
+&nbsp;&nbsp;**Step 3.3** From codemy.com/git/, copy each line one by one, then paste it in the VSCode terminal. (Keep in mind that the dollar sign ($) should not be doubled)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Step 3.3.1** Start with “git init” — to initialize the process.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Step 3.3.2** Go from top to bottom and input the requirements needed for each line.
 
-<div style="margin-left: 20px;"> **Step 3.1** Go to VSCode and create a new file. Name it as “README.md 
-
-
-'''md
-**Step 3.1** Go to VSCode and create a new file. Name it as “README.md
-'''
-
-```md
-    This will keep its 4-space indentation.
-``` 
-    **Step 3.1** Go to VSCode and create a new file. Name it as “README.md
-
-
-&nbsp;&nbsp; ##### **Step 3.1** Go to VSCode and create a new file. Name it as “README.md
-
-##### <div style="margin-left: 20px;"> **Step 3.2** Go to Terminal > dropdown button > select Git Bash (Git bash should be colorful)
-
-##### <div style="margin-left: 20px;"> **Step 3.3**From codemy.com/git/, copy each line one by one, then paste it in the VSCode terminal. (Keep in mind that the dollar sign ($) should not be doubled)
-##### <div style="margin-left: 40px;">**Step 3.3.1** Start with “git init” — to initialize the process.
-##### <div style="margin-left: 40px;">**Step 3.3.2** Go from top to bottom and input the requirements needed for each line.
-
 &nbsp;&nbsp;&nbsp;&nbsp; ![git command for source control](images/Screenshot%202025-10-31%20105456.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;![git command for source control](images/Screenshot_2025-10-31_105456.png)
-
-<div style="margin-left: 40px;">
-  <img src="images/Screenshot_2025-10-31_105456.png" alt="git command for source control">
-</div>
-
-<p align="center">
-  <img src="images/Screenshot_2025-10-31_105456.png" alt="git command for source control">
-</p>
 
 
 **Step 4.** To link VSCode to GitHub > go to Accounts > click “Backup and Sync Settings” > Sign in > select Sign in with GitHub > log in GitHub (make sure to use one email for easy linking).
