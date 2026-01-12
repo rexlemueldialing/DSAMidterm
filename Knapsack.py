@@ -54,5 +54,3 @@ def FoodName():
     return best_combo
 
 FoodName()
-
-yes
